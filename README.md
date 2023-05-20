@@ -1,26 +1,28 @@
 # Overview
 
-
+This is where I started to learn about C++. 
+I have currently made it through my variables and expressions. 
+I still have some learning to do. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I have been writing this program entirely in C++. 
 
-{Describe the programming language that you used and any libraries.}
+I did have to use the iostream library. It runs the complier for C++. 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+These are the websites that I referenced while learning C++ itself. 
 
 - [W3 Schools](https://www.w3schools.com/cpp/cpp_variables.asp)
-- [Web Site Name](http://url.link.goes.here)
+- [Java Point](hhttps://www.javatpoint.com/cpp-expression)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Learn and write about conditionals. 
+- Learn and write about loops.
+- Learn and write about functions.
+- Learn and write about classes.
+- Learn and write about data structures. 
