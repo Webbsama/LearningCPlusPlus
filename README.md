@@ -4,7 +4,7 @@ This is where I started to learn about C++.
 I have currently made it through my variables and expressions. 
 I still have some learning to do. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[What I Have Taught Myself in C++ Demo Video](https://youtu.be/ozzXwyVUL3o)
 
 # Development Environment
 
